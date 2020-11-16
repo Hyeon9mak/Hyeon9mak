@@ -1,4 +1,6 @@
 ### Hi there 👋
+광운대학교 컴퓨터정보공학부 정보공학전공  
+Computer & Information Engineering, Kwangwoon University
 
 <!--
 **Hyeon9mak/Hyeon9mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
