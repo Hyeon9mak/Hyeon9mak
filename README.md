@@ -2,6 +2,7 @@
 광운대학교 컴퓨터정보공학부 정보공학전공  
 Computer & Information Engineering, Kwangwoon University
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hyeon9mak&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Hyeon9mak/Hyeon9mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
