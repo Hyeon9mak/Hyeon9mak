@@ -5,16 +5,7 @@
 Computer & Information Engineering, Kwangwoon University
 
 ### 👨‍💻 Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/Hyeon9mak/Hyeon9mak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/Hyeon9mak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io&langs_count=3" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io&langs_count=3" />
 
 
 
