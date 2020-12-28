@@ -5,8 +5,12 @@ Computer & Information Engineering, Kwangwoon University
 <br>
 
 ## 👨‍💻 Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&line_height=27&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io&langs_count=3" />
-
+<a href="https://github.com/Hyeon9mak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&line_height=27&theme=gruvbox" />
+</a>
+<a href="https://github.com/Hyeon9mak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io&langs_count=3" />
+</a>
 <!--
 **Hyeon9mak/Hyeon9mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
