@@ -4,6 +4,8 @@
 - 광운대학교 컴퓨터정보공학부 정보공학전공  
 Computer & Information Engineering, Kwangwoon University
 
+<br>
+
 ## 👨‍💻 Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon9mak&theme=gruvbox&exclude_repo=Hyeon9mak.github.io&langs_count=3" />
 
