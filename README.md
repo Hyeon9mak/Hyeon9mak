@@ -1,5 +1,5 @@
 ## 👨‍🎓 Graduated
-- 광운대학교 컴퓨터정보공학부 정보공학전공  
+- 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2020-02)  
 Computer & Information Engineering, Kwangwoon University
 
 <br>
