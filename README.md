@@ -1,6 +1,10 @@
 ### Hi there 👋
-광운대학교 컴퓨터정보공학부 정보공학전공  
+
+### 👨‍🎓 Graduated
+- 광운대학교 컴퓨터정보공학부 정보공학전공  
 Computer & Information Engineering, Kwangwoon University
+
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hyeon9mak&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
