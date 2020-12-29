@@ -1,10 +1,10 @@
-## 👨‍🎓 Graduated
+## 👨‍🎓 Education
 - 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2020-02)  
 Computer & Information Engineering, Kwangwoon University
 
 <br>
 
-## 👨‍💻 Github stats
+## 👨‍💻 Github Stats
 <a href="https://github.com/Hyeon9mak">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&line_height=27&theme=gruvbox" />
 </a>
