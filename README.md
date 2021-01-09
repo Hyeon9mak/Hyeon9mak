@@ -1,5 +1,14 @@
+## ㅅㄷㄴㅅ
+- 우아한테크코스 3기 웹 백엔드 (2021-02 ~ )  
+woowacourse 3rd web-backend 
+- 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2021-02)  
+Computer & Information Engineering, Kwangwoon University
+
 ## 👨‍🎓 Education
-- 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2020-02)  
+- 우아한테크코스 3기 웹 백엔드 (2021-02 ~ )  
+woowacourse 3rd web-backend 
+
+- 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2021-02)  
 Computer & Information Engineering, Kwangwoon University
 
 <br>
