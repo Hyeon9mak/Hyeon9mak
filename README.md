@@ -1,6 +1,7 @@
 ## 👨‍🎓 Education
 - 우아한테크코스 3기 웹 백엔드 (2021-02 ~ 2021-11)  
   woowacourse Web-Backend
+  
 - 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2021-02)  
   Computer & Information Engineering, Kwangwoon University
 
