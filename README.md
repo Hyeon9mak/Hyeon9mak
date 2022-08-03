@@ -1,6 +1,6 @@
 ## 👨‍💻 부지런히 살자!
 
-- blog: https://hyeon9mak.github.io/
+- blog: https://hyeon9mak.github.io
 - twitter: https://twitter.com/hyeon9mak
 - facebook: https://facebook.com/Hyeon9mak
 - linkdin: https://linkedin.com/in/hyeon9mak
