@@ -10,6 +10,10 @@
 <a href="https://github.com/Hyeon9mak">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeon9mak&show_icons=true&line_height=27&count_private=true&theme=highcontrast" />
 </a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Hyeon9mak?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--
 **Hyeon9mak/Hyeon9mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
